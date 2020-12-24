@@ -1,4 +1,4 @@
-//@author 
+//@author RushiKonganapalli
 import java.lang.reflect.Array;
 public class Board {
 	private int size;

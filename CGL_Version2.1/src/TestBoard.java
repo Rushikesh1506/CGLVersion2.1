@@ -2,7 +2,7 @@ import org.junit.jupiter.api.Assertions.*;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 /**
- * @author Konganapalli
+ * @author KonganapalliRushikesh
  *
  */
 public class TestBoard {
